@@ -1,1 +1,1 @@
-This is the repo for
+Start Creating with a blank Next.Js template
