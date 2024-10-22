@@ -1,1 +1,1 @@
-Start Creating with a blank Next.Js template
+Next.js blank template ready to use
