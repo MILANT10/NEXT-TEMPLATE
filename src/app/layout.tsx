@@ -12,8 +12,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`antialiased`}>{children}</body>
+    <html className="size-full" lang="en">
+      <body className={`size-full antialiased`}>
+        <main className="size-full">{children}</main>
+      </body>
     </html>
   );
 }
